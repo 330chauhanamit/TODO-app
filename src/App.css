@@ -6,12 +6,13 @@
   border: 1px solid steelblue;
   padding: 20px;
   border-radius: 5px;
+  background-color: red;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-  
+
 }
 
 
@@ -61,7 +62,7 @@
 }
 
 .task.reminder {
-  border-left: 5px solid green;
+  border-left: 5px solid rgb(50, 50, 50);
 }
 @keyframes App-logo-spin {
   from {
